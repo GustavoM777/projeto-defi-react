@@ -1,8 +1,8 @@
 import React from 'react'
-import MainVideo from '../../../assets/video.mp4'
+import MainVideo from '../../assets/video.mp4'
 import './Hero.css'
 
-const hero = () => {
+const Hero = () => {
     return (
         <div className='hero'>
             <video autoPlay loop muted id='video'>
@@ -25,4 +25,4 @@ const hero = () => {
     )
 }
 
-export default hero
+export default Hero
