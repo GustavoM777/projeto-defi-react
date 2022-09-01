@@ -1,8 +1,9 @@
 import React from 'react'
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
-import Hero from './components/hero/Hero';
+import Hero from './components/Hero/Hero';
 import About from './components/About/About';
+import Developer from './components/Developer/Developer';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Developer />
     </div>
   );
 }
