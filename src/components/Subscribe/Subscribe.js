@@ -6,7 +6,7 @@ const Subscribe = () => {
         <div className='subscribe'>
             <div className="content">
                 <h2>Faça Parte de Nossa Comunidade DeFi</h2>
-                <form action="https://getform.io/f/" method="POST">
+                <form action="https://getform.io/f/d6e0a539-f2ff-4cce-896b-dd202ada41fc" method="POST">
                     <div className="form-container display-col">
                         <input type="email" name='email' placeholder='Digite o seu email' />
                         <button className="btn">Registrar-se</button>

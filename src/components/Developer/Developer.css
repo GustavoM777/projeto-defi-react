@@ -38,6 +38,10 @@
 }
 
 @media screen and (max-width:940px) {
+    .developers {
+        height: 85vh;
+    }
+    
     .developers .container {
         flex-direction: column;
     }
