@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <br>
+  <img src="src/assets/defi.png" alt="Logo Xavantes Shop"  width="225">
+  <br><br>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>As finanças descentralizadas, também chamadas de DeFi, são consideradas por muitos o futuro do sistema financeiro. Elas funcionam por meio da tecnologia blockchain e permitem criar sistemas de pagamentos, realizar transações financeiras e contratar empréstimos sem a necessidade de intermediários.</p>
 
-## Available Scripts
+<p>A grande revolução está na quebra da necessidade de confiar em uma terceira parte, como bancos e governos. Em DeFi, tudo é realizado por códigos automáticos, conhecidos como ‘contratos inteligentes.</p>
 
-In the project directory, you can run:
+<p>Os contratos inteligentes, ou smart contracts, são as linhas de código que permitem criar aplicações na blockchain. Esta, por sua vez, funciona como um grande computador descentralizado; vários validadores participam da rede e atestam a validade dos contratos inteligentes.</p>
 
-### `npm start`
+<p align="center"><i>"Seja bem-vindo"</i></p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<hr><br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+  <kbd>
+    <img width="500" style="border-radius: 5px" src="src/assets/gif-window.gif" alt="Desktop Site Defi">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><br>
+    <img width="200" style="border-radius: 5px" src="src/assets/gif-smart.gif" alt="Smart Site Defi">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p><br><br><hr>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **`Tecnologias utilizadas`**
+- JavaScript
+- CSS
+- ReactJS
+<br><br>
+<hr>
 
-### `npm run build`
+<h1 align="center">
+  <br>
+  <img src="src/assets/defi.jpg" alt="Logo Defi"  width="400">
+  <br><br>
+</h1>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Made with 💙 by Gustavo Mattos 👋 [See my LinkedIn](linkedin.com/in/guh-mattos/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
