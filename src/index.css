@@ -50,6 +50,7 @@ h2 {
   border-radius: 50px;
   cursor: pointer;
   font-family: 'Kamit', sans-serif;
+  margin: 15px;
 }
 
 .btn-outline {
